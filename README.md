@@ -8,9 +8,9 @@ Completed the JPMorgan Chase & Co. Software Engineering Virtual Experience offer
 - Optionally contributing to open-source projects, enhancing collaboration and code contribution skills.
 
 
-<p align=center>
+
 <img width="531" height="283" alt="image" src="https://github.com/user-attachments/assets/b49c6661-812a-4499-93d4-7634391dd6a9" />
-</p>
+
 
 
 
